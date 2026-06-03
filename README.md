@@ -11,4 +11,4 @@ Los cambios deben ser revisables, trazables y fáciles de relacionar con una sol
 
 ## Colaboración externa
 Las personas externas pueden proponer mejoras sin modificar directamente el repositorio principal.
-Toda contribución externa debe ser revisada antes de integrarse.
+Toda contribución externa debe ser revisables antes de integrarse.
